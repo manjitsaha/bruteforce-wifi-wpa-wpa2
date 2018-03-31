@@ -3,7 +3,9 @@ this tool will give you freedom to crack wpa-wpa2 passwords with ease and also i
 you just need target MAC Address and his handshake
 Usage --- 
 1. chmod +x bruteforcewifi.sh
+
 2 ./bruteforcewifi.sh
+
 3. just follow what i says..
 
 Enjoy Hacking
